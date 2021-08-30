@@ -3,5 +3,6 @@
 - 🌱 Atualmente estou alocado em um projeto de banco trabalhando com modernização e criação de novas features.
 - 💞️ Estou procurando colaborar mais com front-end, pois hoje minha melhor habilidade é no back.
 - 📫 Estes são os meus contatos:
-Linkedin:https://www.linkedin.com/in/jhonatas-medeiros-melo/
+- <i class="fab fa-linkedin"></i>Linkedin:https://www.linkedin.com/in/jhonatas-medeiros-melo/
+- <i class="fab fa-whatsapp-square"></i>
 Whatsapp:(11) 94931-6619
