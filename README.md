@@ -5,4 +5,3 @@
 - 📫 Estes são os meus contatos:
 - <i class="fab fa-linkedin"></i>Linkedin:https://www.linkedin.com/in/jhonatas-medeiros-melo/
 - <i class="fab fa-whatsapp-square"></i>
-Whatsapp:(11) 94931-6619
