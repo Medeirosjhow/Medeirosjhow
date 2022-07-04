@@ -1,7 +1,8 @@
-- 👋 Olá, sou @Medeirosjhow
-- 👀 Sou um desenvolvedor Back-End e Estou interessado em desenvolver hard e soft skills, afim de me tornar um Dev full stack.
-- 🌱 Atualmente estou alocado em um projeto de banco trabalhando com modernização e criação de novas features.
-- 💞️ Estou estudando para colaborar mais com front, pois hoje minha melhor habilidade é no back.
-- 📫 Estes são os meus contatos:
-- <i class="fab fa-linkedin"></i>Linkedin:https://www.linkedin.com/in/jhonatas-medeiros-melo/
-- <i class="fab fa-whatsapp-square"></i>
+Olá sou Jhonatas Medeiros. Desenvolvedor Full Stack na NTT DATA.
+
+Trablaho com desenvolvimento, elaboração e suporte a produtos no principal portal de Pessoa Jurídica do banco Itaú, para setores banking e gestão. Soluções full-stack de grandes projetos, aplicações web desenvolvidas com Java Spring Boot, Angular utilizando Typescript, Javascript, HTML5 e SCSS. Criação de componentes, consumo de serviços REST APIs e construção de layout responsivo
+
+Scrum como metodologia ágil para gerenciar e coordenar tarefas.
+
+Habilidades principais:
+Java, Spring, Spring boot, HTML, CSS3, SASS, JavaScript, Typescript, Angular, GIT
