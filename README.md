@@ -1,24 +1,52 @@
-# 💫 About Me:
-Desenvolvedor Full Stack na NTT DATA.<br><br>Trabalho com desenvolvimento, elaboração e suporte a produtos no principal portal de Pessoa Jurídica do banco Itaú, para setores banking e gestão. Soluções full-stack de grandes projetos, aplicações web desenvolvidas com Java Spring Boot, Angular utilizando Typescript, Javascript, HTML5 e SCSS. Criação de componentes, consumo de serviços REST APIs e construção de layout responsivo<br><br>Scrum como metodologia ágil para gerenciar e coordenar tarefas.<br><br>Habilidades principais: Java, Spring, Spring boot, HTML, CSS3, SASS, JavaScript, Typescript, Angular, GIT
+### Olá sou Jhonatas Medeiros 👋
+
+Sou desenvolvedor Full Stack na <img width="90px" alt="NTTDATA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NTT-Data-Logo.svg/2560px-NTT-Data-Logo.svg.png">.<br><br>Trabalho com desenvolvimento, elaboração e suporte a produtos no principal portal de Pessoa Jurídica do banco Itaú, para setores banking e gestão. Soluções full-stack de grandes projetos, aplicações web desenvolvidas com Java Spring Boot, Angular utilizando Typescript, Javascript, HTML5 e SCSS. Criação de componentes, consumo de serviços REST APIs e construção de layout responsivo<br><br>Scrum como metodologia ágil para gerenciar e coordenar tarefas.<br><br>Habilidades principais: Java, Spring, Spring boot, HTML, CSS3, SASS, JavaScript, Typescript, Angular, GIT
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```Java
+public class FullStackEngineer {
+ public String name = "JHONATAS MEDEIROS DE MELO";
+ public String acknowledgements = "FULL STACK ENGINEER";
+ 
+ public String primarySkillset = "comunicação, comprometimento, trabalho em equipe";
+ public String[] languages = {"Java", "Typscript", "JavaScript", "Spring", "Angular"};
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img title="Java" alt="Java" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
+<code><img title="Spring" alt="Spring" height="30" src="https://img.icons8.com/color/480/spring-logo.png"></code>
+<code><img title="Angular" alt="Angular" height="30" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"></code>
+<code><img title="JavaScript" alt="JavaScript" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img title="HTML5" alt="HTML5" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img title="CSS3" alt="CSS3" height="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></code>
+<code><img title="Git" alt="Git" height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img title="GitHub" alt="GitHub" height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+<code><img title="GitLab" alt="GitLab" height="30" src="https://w7.pngwing.com/pngs/535/202/png-transparent-gitlab-logo-version-control-company-react-others-miscellaneous-angle-company-thumbnail.png"></code>
+<code><img title="VsCode" alt="VsCode" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Medeiros_jhonatas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn.com/in/jhonatas-medeiros-melo) 
+## **GitHub Estatísticas**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Medeirosjhow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Medeirosjhow&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjhow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjhow&theme=dracula&hide_langs_below=1" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Medeirosjhow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Medeirosjhow&show_icons=true&theme=dracula&line_height=27" alt="**Jhonatas Medeiros de Melo** github stats"/>
+</a>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[github]: https://github.com/Medeirosjhow
+[Instagram]: https://twitter.com/SEUTWITTER
+[linkedin]: https://www.linkedin.com/in/jhonatas-medeiros-de-melo/
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Medeirosjhow&icon=0&color=0)](https://visitcount.itsvg.in)
+#### Rede Sociais!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="45" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> [github][github] **|** 
+<img width="45" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"> [instagram][instagram] **|** 
+<img width="45" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [linkedin][linkedin]
