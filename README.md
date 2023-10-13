@@ -20,10 +20,10 @@ Estudante de Cloud computing - [AWS](https://aws.amazon.com/)
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/MedeirosJhow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjhow&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/MedeirosJhow">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Medeirosjhow&show_icons=true&theme=dracula&line_height=27" alt="**Jhonatas Medeiros de Melo** github stats"/>
 </a>
