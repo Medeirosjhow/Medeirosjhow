@@ -8,7 +8,7 @@
 
 ( Java | Python | Javascript | Typescript | Angular  | HTML | CSS | Spring Boot | AWS | SQL | MySQL | Redis  ) 🚀
 
-Software Enginner na [Ntt Data](https://us.nttdata.com/).
+Software Enginner.
 
 Estudante de Cloud computing - [AWS](https://aws.amazon.com/)
 
