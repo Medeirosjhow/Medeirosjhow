@@ -1,19 +1,74 @@
-# Olá, Bem-vindo ao meu repositório 👋
+# Olá — Bem-vindo ao meu repositório 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-medeiros-melo/)](https://www.linkedin.com/in/jhonatas-medeiros-melo/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.medeirosmelo.dev/)](https://medeirosmelo.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-jhonatas.medeiro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoanatas.medeiro@gmail.com)](mailto:jhoanatas.medeiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-medeiros-melo/)
+[![Website](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=google-chrome&logoColor=white)](https://medeirosmelo.dev/)
+[![Email](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:jhonatas.medeiro@gmail.com)
 
-## Meu nome é Jhonatas Medeiros de Melo
+> Engenheiro de Software com foco em arquitetura de microsserviços, sistemas distribuídos e qualidade de código.
 
-( Java | Python | Javascript | Typescript | Angular  | HTML | CSS | Spring Boot | AWS | SQL | MySQL | Redis  ) 🚀
+Sumário
+-------
 
-Software Enginner.
+- [Sobre](#sobre)
+- [Especialidades](#especialidades)
+- [Stack principal](#stack-principal)
+- [Experiência e impacto](#experiencia-e-impacto)
+- [Interesses atuais](#interesses-atuais)
+- [Projetos em destaque](#projetos-em-destaque)
+- [Contato](#contato)
 
-Estudante de Cloud computing - [AWS](https://aws.amazon.com/)
 
-**Principais atuações:**
+## Sobre
 
-* **Desenvolvimento de Microserviços com Python e AWS Lambda:** Projetei e implementei eficientes microserviços de conversão de arquivos e cacheamento de APIs em AWS Lambda, utilizando Python. Isso resultou em maior escalabilidade e menor latência, melhorando a resposta a demandas de alto tráfego e otimizando o uso de recursos computacionais.
-* **Integração de Dados com AWS Glue:** Desenvolvi soluções de Extração, Transformação e Carga (ETL) usando o AWS Glue para aprimorar a coleta, transformação e análise de dados de acordo com as regras de negocios da aplicação.
-* **Modernização de Front-End de JSP para Angular:** Migrei com sucesso as interfaces de usuário baseadas em JSP para o framework Angular, proporcionando uma experiência de usuário mais rica e responsiva, além de uma manutenção simplificada.
+Atuo no desenvolvimento de plataformas críticas com foco em design de software, segurança, observabilidade e qualidade de código. Tenho experiência em projetos que exigem alta disponibilidade, resiliência e governança de APIs.
+
+
+## Especialidades
+
+- Arquitetura de microsserviços (Java / Spring Boot)
+- Design orientado a domínio (DDD) e Arquitetura Hexagonal
+- Segurança de APIs (OAuth2, OIDC, autorização por escopo/role)
+- Sistemas assíncronos (Kafka, RabbitMQ)
+- Observabilidade (OpenTelemetry — logs, métricas e tracing)
+- Performance, cache e resiliência (Redis, retries, circuit breaker)
+- Plataformas em nuvem (AWS)
+
+
+## Stack principal
+
+- Backend: Java, Spring Boot, Python
+- Frontend: Angular, TypeScript
+- Banco de dados: PostgreSQL, MySQL, Redis
+- Mensageria: Kafka, RabbitMQ
+- Cloud: AWS
+- Qualidade: Testes automatizados, CI/CD, Clean Code, SOLID
+
+
+## Experiência e impacto
+
+- Desenvolvimento e evolução de microsserviços críticos em ambiente bancário
+- Implementação de segurança e políticas de proteção de APIs
+- Refatorações arquiteturais para melhorar desacoplamento e testabilidade
+- Modernização de aplicações (ex.: migração de JSP para Angular)
+- Construção de pipelines de dados/ETL com AWS Glue
+- Soluções serverless para processamento e cache de dados
+
+
+## Interesses atuais
+
+- Arquitetura de sistemas distribuídos
+- Autorização avançada e policy-based access
+- Observabilidade end-to-end
+- Platform engineering
+
+
+## Projetos em destaque
+
+Estou construindo uma nova vitrine focada em arquitetura de sistemas distribuídos, segurança de APIs e observabilidade.
+
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/jhonatas-medeiros-melo/
+- Website: https://medeirosmelo.dev/
+- E-mail: jhonatas.medeiro@gmail.com
